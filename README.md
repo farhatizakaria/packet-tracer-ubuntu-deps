@@ -1,8 +1,18 @@
-# Cisco Packet Tracer 8.2.2 Dependencies for Ubuntu 24.04 & 24.10
+# Description
 
-This repository provides the necessary dependencies and a step-by-step installation guide for running **Cisco Packet Tracer 8.2.2** on **Ubuntu 24.04** and **Ubuntu 24.10**. It aims to solve common dependency issues and make the installation process smoother.
+This repository provides a collection of dependencies and fixes for running Cisco Packet Tracer on Ubuntu 24.04 and later. Simplifies installation by resolving compatibility issues with a few libraries and package on recent Ubuntu releases. 
 
----
+
+
+## Tested ✅
+- [x] Ubuntu 25.04
+- [x] Ubuntu 24.10
+- [x] Ubuntu 24.04
+- [x] Debian 13
+- [x] Debian 12
+
+
+
 
 ## 📋 Prerequisites
 
@@ -12,7 +22,7 @@ Before starting the installation, ensure you have the following:
 - Basic familiarity with using the terminal/command line.
 - **Root (sudo) access** on your machine.
 
----
+
 
 ## 🚀 Installation Steps
 
