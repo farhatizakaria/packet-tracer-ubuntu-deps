@@ -2,6 +2,7 @@
 
 This repository provides a collection of dependencies and fixes for running Cisco Packet Tracer on Ubuntu 24.04 and later (Debian 13 Trixie included). It simplifies installation by resolving compatibility issues with a few libraries and packages on recent Ubuntu releases.
 
+> Note: The `.deb` packages included in this repository are official Ubuntu packages and are distributed under their respective licenses.
 
 
 
