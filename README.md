@@ -12,6 +12,7 @@ This repository provides a collection of dependencies and fixes for running Cisc
 - [x] Ubuntu 24.04
 - [x] Debian 13
 - [x] Debian 12
+- [x] Linux Mint 22.x
 
 
 
